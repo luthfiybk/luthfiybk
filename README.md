@@ -10,6 +10,6 @@ Second-year Informatics student who currently interested in Back-end Engineering
 
 ## Stats
 <a href="github.com/luthfiybk">
-  <img height="140em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=luthfiybk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=luthfiybk&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luthfiybk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfiybk&layout=compact&langs_count=8&theme=algolia"/>
 </a>
