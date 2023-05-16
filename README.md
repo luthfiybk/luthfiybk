@@ -20,3 +20,5 @@ Second-year Informatics student who currently interested in Back-end Engineering
 />
 <img src="https://github-readme-stats.vercel.app/api?username=luthfiybk&show_icons=true" />
 </picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthfiybk&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
