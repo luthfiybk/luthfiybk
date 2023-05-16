@@ -10,5 +10,5 @@ Second-year Informatics student who currently interested in Back-end Engineering
 
 ## Stats
 <a href="github.com/luthfiybk">
-  [![Manggala's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthfiybk)](https://github.com/anuraghazra/github-readme-stats)
+  ![Manggala's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthfiybk&show_icons=true&theme=radical)
 </a>
