@@ -9,6 +9,14 @@ Second-year Informatics student who currently interested in Back-end Engineering
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luthfiybk)
 
 ## Stats
-<a href="github.com/luthfiybk">
-  ![Manggala's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthfiybk&show_icons=true&theme=radical)
-</a>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=luthfiybk&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=luthfiybk&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=luthfiybk&show_icons=true" />
+</picture>
