@@ -10,6 +10,5 @@ Second-year Informatics student who currently interested in Back-end Engineering
 
 ## Stats
 <a href="github.com/luthfiybk">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luthfiybk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfiybk&layout=compact&langs_count=8&theme=algolia"/>
+  [![Manggala's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthfiybk)](https://github.com/anuraghazra/github-readme-stats)
 </a>
