@@ -11,7 +11,7 @@ Second-year Informatics student who currently interested in Back-end Engineering
 ## Stats
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=luthfiybk&show_icons=true&theme=gruvbox"
+  srcset="https://github-readme-stats.vercel.app/api?username=luthfiybk&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
 <source
