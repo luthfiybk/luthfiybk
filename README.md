@@ -1,7 +1,7 @@
 # Hi, I'm Luthfi! 👋
 
 ## 🚀 About Me
-Informatics student who has a curiousity in programming, specifically about Web Dev, Cyber Sec, and Network. I am a hardworker and want to learn something new.
+Final-year Computer Science student who has a curiousity in programming, specifically about Web Dev, Cyber Sec, and Network. I am a hardworker and want to learn something new.
 
 ## 🛠 Skills
 Laravel Framework, React Library, Node Js
