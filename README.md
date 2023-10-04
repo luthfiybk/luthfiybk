@@ -5,7 +5,7 @@ Final-year Computer Science student who has a curiousity in programming, specifi
 
 ## 🛠 Skills
 Laravel Framework, React Library, Node Js
-![luthfiybk's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthfiybk&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthfiybk&layout=compact)
 
 ## 🔗 Links
 Catch me thru these links!
