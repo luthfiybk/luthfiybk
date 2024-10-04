@@ -1,7 +1,9 @@
 # Hi, I'm Luthfi! 👋
 
 ## 🚀 About Me
-As a final-year Computer Science student at Diponegoro University, I have focused my interests and research on Back End Engineering and Blockchain/Web3 technologies. With a high level of enthusiasm and a strong commitment to advancing my career in the field of information technology, I have delved into in-depth coursework in Back End development, covering concepts such as databases and server-side scripting. Furthermore, my interest in Blockchain and Web3 reflects an awareness of the transformative potential of decentralized systems and the evolution of the internet. My experiences in various projects and potential involvement in extracurricular activities and internships have enriched my practical understanding. With the intention of pursuing a graduate program, I aim to deepen my knowledge, sharpen my skills, and explore new opportunities in my professional career in the field of information technology, particularly in the realm of Blockchain and Web3 technologies.
+As a Computer Science graduate from Diponegoro University, I have focused my studies on Back End Engineering, with a strong emphasis on databases, server-side scripting, and scalable system architecture. My passion for Back End development is supported by my interest in expanding my knowledge in data and security, recognizing their critical importance in today’s IT landscape.
+
+I have gained hands-on experience through a variety of projects, along with active involvement in extracurricular activities and internships, which have provided me with a solid practical foundation and a versatile skill set. Moving forward, I am eager to continue my education to enhance my expertise, refine my technical abilities, and embrace new opportunities in information technology, particularly in Back End development, data, and security.
 
 ## 🛠 Skills
 Laravel Framework, React Library, Node Js
