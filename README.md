@@ -6,7 +6,7 @@ As a Computer Science graduate from Diponegoro University, I have focused my stu
 I have gained hands-on experience through a variety of projects, along with active involvement in extracurricular activities and internships, which have provided me with a solid practical foundation and a versatile skill set. Moving forward, I am eager to continue my education to enhance my expertise, refine my technical abilities, and embrace new opportunities in information technology, particularly in Back End development, data, and security.
 
 ## 🛠 Skills
-Laravel Framework, React Library, Node Js
+Python, MySQL, Java, PHP, JavaScript, C, React, Next.js, React Native, Node.js, Express, Prisma ORM, Laravel, Postman, Selenium
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luthfiybk&layout=compact)
 
